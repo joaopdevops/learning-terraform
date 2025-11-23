@@ -12,8 +12,8 @@ Provisionamento automatizado de bucket S3 na AWS usando Infrastructure as Code (
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
-cd aws-bucket
+git clone https://github.com/joaopdevops/learning-terraform.git
+cd learning-terraform
 
 # Configure suas credenciais AWS (se ainda não fez)
 aws configure
